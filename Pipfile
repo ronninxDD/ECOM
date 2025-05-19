@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
-django-cors-headers = "*"
 djangorestframework = "*"
 pillow = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 pytest = "*"
